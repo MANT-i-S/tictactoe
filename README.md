@@ -1,6 +1,6 @@
 # tictactoe
 
-__Created TicTacToe game for filemaker go.__
+__Created TicTacToe game for filemaker go.__  
 Account: Admin  
 Password: MANTiS  
 
