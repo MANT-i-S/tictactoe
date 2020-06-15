@@ -1,6 +1,6 @@
 # tictactoe
 
-__Created TicTacToe game for filemaker go.__  
+__Implemented game for the FileMaker platform where you can register new users, play tic-tac-toe, and rock-paper-scissors. Player can check statistics with integrated JavaScript pie charts or regular listview. Users can reset the password by receiving a text message with the verification code if the phone number was provided.__  
 Account: admin  
 Password: admin  
 
